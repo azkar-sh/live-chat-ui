@@ -1,7 +1,7 @@
 # live-chat-ui
 
 [![npm version](https://img.shields.io/npm/v/live-chat-ui.svg)](https://www.npmjs.com/package/live-chat-ui)
-[![license](https://img.shields.io/npm/l/live-chat-ui.svg)](https://github.com/yourusername/live-chat-ui/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/live-chat-ui.svg)](https://github.com/azkar-sh/live-chat-ui/blob/main/LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
 
 An embeddable, production-ready real-time chat panel for any React application backed by a Socket.IO server. Perfect for customer support, live collaboration, and in-app messaging.
