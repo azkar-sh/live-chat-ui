@@ -414,6 +414,6 @@ Contributions are welcome! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for g
 
 ## Support
 
-- 📖 [Full Documentation](https://github.com/yourusername/live-chat-ui)
-- 🐛 [Report Issues](https://github.com/yourusername/live-chat-ui/issues)
-- 💬 [Discussions](https://github.com/yourusername/live-chat-ui/discussions)
+- 📖 [Full Documentation](https://github.com/azkar-sh/live-chat-ui)
+- 🐛 [Report Issues](https://github.com/azkar-sh/live-chat-ui/issues)
+- 💬 [Discussions](https://github.com/azkar-sh/live-chat-ui/discussions)
